@@ -1,8 +1,5 @@
-![Header](work.eat.sleep.repeat.png)
-
-  <h1>Hi, I'm Parnita 🐾</h1>
-  <em>second-year undergrad · code explorer · poet in disguise</em>
-</div>
+![Header](final-github-banner.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F2E6&width=435&lines=Meeeeeeeeeeeeeeeeoooooooooooooooooowwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww+!)](https://git.io/typing-svg)
 
 ## 🐈‍⬛ ABOUT ME 
 - 2ND Year Undergraduate in ECE-AI
